@@ -16,19 +16,11 @@
 
 
 
-
-
-
 #---------------------- Opérateurs------------------------#
 # arithmetiques
 # Opérateurs de comparaison
 # Opérateurs d'affectation
 # Opérateurs logiques
-
-
-
-
-
 
 
 
